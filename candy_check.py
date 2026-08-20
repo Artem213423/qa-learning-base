@@ -1,4 +1,4 @@
-pockets = [0, 1, 0, 1]
+pockets = [0, 2, 14, 1]
 
 for c in pockets:
     if c == 1:

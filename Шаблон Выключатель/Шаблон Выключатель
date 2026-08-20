@@ -1,0 +1,5 @@
+light_on = False
+if light_on:
+    print("OK: Свет включен")
+else:
+    print("ERROR: Свет выключен")
