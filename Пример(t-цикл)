@@ -1,7 +1,0 @@
-temps = [19,20,21,22,23,24,25,26]
-for temp in temps:
-    print(f"Проверяем температуру: {temp}°C")
-    if temp >= 20 and temp <= 25:
-        print("OK: Комфортно")
-    else:
-        print("ERROR: Некомфортно")
