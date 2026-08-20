@@ -1,7 +1,0 @@
-ages = [17,45,54,64,65,66]
-for age in ages:
-    print(f"Проверяем возраст: {age}")
-    if age >= 18 and age <= 65:
-        print("OK: Доступ разрешен")
-    else:
-        print("ERROR: Доступ запрещен")
